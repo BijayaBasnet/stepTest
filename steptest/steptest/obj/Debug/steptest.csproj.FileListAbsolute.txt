@@ -1,0 +1,30 @@
+C:\Users\Bijay\Desktop\step test\steptest\steptest\bin\Debug\steptest.exe.config
+C:\Users\Bijay\Desktop\step test\steptest\steptest\bin\Debug\steptest.exe
+C:\Users\Bijay\Desktop\step test\steptest\steptest\bin\Debug\steptest.pdb
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.csprojResolveAssemblyReference.cache
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.Properties.Resources.resources
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.csproj.GenerateResource.Cache
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.exe
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.pdb
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.TestForm.resources
+C:\Users\Bijay\Desktop\step test\Steptest\steptest\obj\Debug\steptest.Customercontrolform.resources
+C:\Users\Bijay\Desktop\step test\Steptest\steptest\obj\Debug\steptest.FinalResult.resources
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.Customer.resources
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.Stafflogin.resources
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.Staff.resources
+C:\Users\Bijay\Desktop\step test\steptest\steptest\obj\Debug\steptest.Customerlogin.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\bin\Debug\steptest.exe.config
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.exe
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.pdb
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\bin\Debug\steptest.exe
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\bin\Debug\steptest.pdb
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.csprojResolveAssemblyReference.cache
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.Customercontrolform.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.Customer.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.FinalResult.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.Stafflogin.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.Staff.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.Properties.Resources.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.Customerlogin.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.TestForm.resources
+C:\Users\Bijay\Desktop\s13003243 BIJAYA RAJ BASNET\steptest\steptest\obj\Debug\steptest.csproj.GenerateResource.Cache
